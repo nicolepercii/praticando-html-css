@@ -34,3 +34,26 @@ body{
     display:grid
     grid-template-columns:50% 50%;
 }
+
+.container_botao {
+    background-color: #3c92fa;
+    border-radius: 5px;
+    padding: lem;
+    color: #ffffff;
+    display: block;
+    text-decoration: none;
+    margin-bottom: lem;
+}
+
+.botao_secundario {
+    background-color: aliceblue;
+    boder: 2px solid var(--branco-principal)
+
+}
+
+.container_aviso{
+    font-size: 12px;/*tamanho da fonte */
+    color:#c0c0c0
+}
+
+.container_titulo 
